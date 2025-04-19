@@ -16,4 +16,3 @@ This Weather App is a JavaFX-based application that fetches real-time weather da
 - **HTTP Requests & APIs**: To fetch weather data from an online weather service.
 - **Java Standard Libraries**: Used for parsing and handling time zones.
 <img width="697" alt="Screenshot 2025-04-06 at 00 14 24" src="https://github.com/user-attachments/assets/14905204-6947-47d5-af3e-77be98ee6cce" />
-<img width="698" alt="Screenshot 2025-04-06 at 00 13 55" src="https://github.com/user-attachments/assets/9849fc53-7ba4-4fe2-879d-4fbde513df2c" />
